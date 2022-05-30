@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://pandzaaa.github.io/csb-563wp6/static/css/main.af2bf313.chunk.css",
+    "main.js": "https://pandzaaa.github.io/csb-563wp6/static/js/main.1ff759e4.chunk.js",
+    "main.js.map": "https://pandzaaa.github.io/csb-563wp6/static/js/main.1ff759e4.chunk.js.map",
+    "runtime-main.js": "https://pandzaaa.github.io/csb-563wp6/static/js/runtime-main.fd5e3200.js",
+    "runtime-main.js.map": "https://pandzaaa.github.io/csb-563wp6/static/js/runtime-main.fd5e3200.js.map",
+    "static/js/2.7dff40df.chunk.js": "https://pandzaaa.github.io/csb-563wp6/static/js/2.7dff40df.chunk.js",
+    "static/js/2.7dff40df.chunk.js.map": "https://pandzaaa.github.io/csb-563wp6/static/js/2.7dff40df.chunk.js.map",
+    "index.html": "https://pandzaaa.github.io/csb-563wp6/index.html",
+    "static/css/main.af2bf313.chunk.css.map": "https://pandzaaa.github.io/csb-563wp6/static/css/main.af2bf313.chunk.css.map",
+    "static/js/2.7dff40df.chunk.js.LICENSE.txt": "https://pandzaaa.github.io/csb-563wp6/static/js/2.7dff40df.chunk.js.LICENSE.txt",
+    "static/media/alb.37cd0980.jpg": "https://pandzaaa.github.io/csb-563wp6/static/media/alb.37cd0980.jpg",
+    "static/media/cro.40bfad2a.jpg": "https://pandzaaa.github.io/csb-563wp6/static/media/cro.40bfad2a.jpg",
+    "static/media/uncleSam.4fb7d5e4.jpg": "https://pandzaaa.github.io/csb-563wp6/static/media/uncleSam.4fb7d5e4.jpg",
+    "static/media/usa.6a53915a.jpg": "https://pandzaaa.github.io/csb-563wp6/static/media/usa.6a53915a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd5e3200.js",
+    "static/js/2.7dff40df.chunk.js",
+    "static/css/main.af2bf313.chunk.css",
+    "static/js/main.1ff759e4.chunk.js"
+  ]
+}
